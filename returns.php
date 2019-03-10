@@ -6,14 +6,14 @@
 </head>
 <body>
 <!-- /code/php/php-practice/ -->
-  <?php
-    function sayHi($name, $age){
-      echo "Hello $name, you are $age <br>";
+  <?php 
+    function cube($num) {
+      echo "CUBED <br>";
+      return $num * $num * $num;
     };
 
-    sayHi("Dave", 26);
-    sayHi("Tim", 30);
-    sayHi("Tom", 20);
+    $cubeResult = cube(3);
+    echo $cubeResult;
   ?>
 </body>
 </html>
