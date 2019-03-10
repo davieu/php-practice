@@ -6,6 +6,8 @@
 </head>
 <body>
 <!-- /code/php/php-practice/ -->
-
+  <?php
+  
+  ?>
 </body>
 </html>
