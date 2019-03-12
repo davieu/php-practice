@@ -10,9 +10,9 @@
   $title = "My first post";
   $author = "Mike";
   $wordCount = 400; 
-    include "article-header.php";
+    include "16article-header.php";
     echo "<br>";
-    include "useful-tools.php";
+    include "16useful-tools.php";
     echo sayHi("Dave");
     echo "<br>";
     echo $feetInMiles;

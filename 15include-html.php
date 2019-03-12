@@ -6,8 +6,8 @@
 </head>
 <body>
 <!-- /code/php/php-practice/ -->
-  <?php include "header.html"; ?>
+  <?php include "15header.html"; ?>
   <p>Hello World</p>
-  <?php include "footer.html";?>
+  <?php include "15footer.html";?>
 </body>
 </html>
